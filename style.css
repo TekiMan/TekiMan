@@ -26,7 +26,7 @@ a{
     justify-content: space-between; /*space-around - пространство слева и справа*//*пространство между флекс элементами*/
     padding: 60px; /*высота аниме девушки*/
     /* background: #689CD2;*/
-    background: url('thumb-1920-35538.png'); /*сама аниме девушка*/
+    background: url('https://i.ytimg.com/vi/a-cLxABd3N4/maxresdefault.jpg'); /*сама аниме девушка*/
     background-repeat: no-repeat; /*изображение без повторений*/
     color: #fff;
     font-family: cursive; /*стиль записи*/
@@ -128,7 +128,7 @@ footer {
     display: flex;
     height: 8vh;
     width: 100vw;
-    background-image: url("460357281338512b9a1c775cacf6d76e.jpg");
+    background-image: url("https://krot.info/uploads/posts/2021-02/1613662994_46-p-serii-fon-dlya-montazha-53.jpg");
     background-position: center center;
     background-size: auto 100%;
     padding: 40px;
